@@ -1,1 +1,3 @@
-# EDA with python
+# Data and Decision Handbook
+
+ [ ] Reshaping
